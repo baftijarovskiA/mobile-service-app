@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1bc67d0-8d1b-423b-897d-a0b4fdb268ee" name="Default Changelist" comment="" />
+    <list default="true" id="e1bc67d0-8d1b-423b-897d-a0b4fdb268ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mobile-service-app-cover.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/add_phone.php" beforeDir="false" afterPath="$PROJECT_DIR$/service/add_phone.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/main.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,16 +28,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1UcHMc6kBW089ji5d8Z1QNflmJD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../chat_2017" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -41,7 +57,7 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="app" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" host="192.168.0.100" port="8080">
+    <configuration name="app" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
       <method v="2" />
     </configuration>
   </component>
@@ -76,21 +92,25 @@
       <workItem from="1576247147037" duration="186000" />
       <workItem from="1576248489305" duration="4105000" />
       <workItem from="1576272831865" duration="10204000" />
+      <workItem from="1576364242799" duration="9439000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="667" y="145" key="#PHP" timestamp="1575649154692">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="667" y="145" key="#PHP/0.30.1920.1050@0.30.1920.1050" timestamp="1575649154692" />
-    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576272929312">
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576364292734">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576272929312" />
+    <state x="414" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576364292734" />
     <state x="640" y="282" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575649116447">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
@@ -103,25 +123,29 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="740" y="309" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1576199468902" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1576290102987">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1576379109528">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1576290102987" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1576290102987">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1576379109528" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1576379109528">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1576290102987" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1576290102987">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1576379109528" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1576379109528">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1576290102987" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1576290102987">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1576379109528" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1576379109528">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1576290102987" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1576379109528" />
     <state x="794" y="478" key="NewPhpFileDialog" timestamp="1576285516502">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="794" y="478" key="NewPhpFileDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1576285516502" />
+    <state x="616" y="258" key="run.anything.popup" timestamp="1576365916134">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="616" y="258" key="run.anything.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1576365916134" />
   </component>
 </project>

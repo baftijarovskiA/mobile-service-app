@@ -107,6 +107,11 @@ if (isset($_COOKIE['logged'])){ $user = $_COOKIE['logged'];} else {header("Locat
                     </div>
                 </div>
 
+                <div class="form-group">
+                    <label for="inputImage">Image</label>
+                    <input type="text" name="spec-image" class="form-control" id="inputImage" placeholder="Image" required>
+                </div>
+
                 <button class="btn btn-sm btn-primary float-right" type="submit">Create</button>
                 <a href="stock.php" class="btn btn-link float-right">Back</a>
             </form>

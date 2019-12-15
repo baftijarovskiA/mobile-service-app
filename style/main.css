@@ -1,9 +1,23 @@
 .main{
     margin-top: 70px;
 }
-.article{
-    width: 100%;
+.custom-link{
+    color: rgba(0,0,0,.6);
+    text-decoration: none;
 }
-.article img{
-    width: 100%;
+.custom-link:hover{
+    color: black;
+    text-decoration: none;
 }
+.zoom-image{
+    transform: scale(1.0);
+    transition: .5s;
+}
+.zoom-image:hover {
+    transform: scale(1.1);
+}
+.phone-background{
+    background-size: cover;
+    background: url("https://static.vecteezy.com/system/resources/previews/000/574/569/non_2x/vector-gray-white-polygonal-background-creative-design-templates.jpg") no-repeat center bottom;
+}
+
