@@ -52,7 +52,7 @@
         <div class="row mt-5">
             <div class="col-md-4 text-center mb-5">
                 <div class="w-75 m-auto border p-2 phone-background">
-                    <a href="#" class="custom-link">
+                    <a href="phone.php?id=1" class="custom-link">
                         <p><b>Apple iPhone 11 Pro</b></p>
                         <img src="https://www.telekom.mk/webimg?id=30567" class="w-100 zoom-image" />
                         <hr/>
@@ -62,7 +62,7 @@
             </div>
             <div class="col-md-4 text-center mb-5">
                 <div class="w-75 m-auto border p-2 phone-background">
-                    <a href="#" class="custom-link">
+                    <a href="phone.php?id=1" class="custom-link">
                         <p><b>Samsung Galaxy S10+</b></p>
                         <img src="https://www.telekom.mk/webimg?id=28729" class="w-100 zoom-image"/>
                         <hr/>
@@ -72,7 +72,7 @@
             </div>
             <div class="col-md-4 text-center mb-5">
                 <div class="w-75 m-auto border p-2 phone-background">
-                    <a href="#" class="custom-link">
+                    <a href="phone.php?id=1" class="custom-link">
                         <p><b>Apple iPhone 11</b></p>
                         <img src="https://www.telekom.mk/webimg?id=30145" class="w-100 zoom-image"/>
                         <hr/>
@@ -82,7 +82,7 @@
             </div>
             <div class="col-md-4 text-center mb-5">
                 <div class="w-75 m-auto border p-2 phone-background">
-                    <a href="#" class="custom-link">
+                    <a href="phone.php?id=1" class="custom-link">
                         <p><b>Samsung Galaxy A20E</b></p>
                         <img src="https://www.telekom.mk/webimg?id=29363" class="w-100 zoom-image"/>
                         <hr/>
@@ -92,7 +92,7 @@
             </div>
             <div class="col-md-4 text-center mb-5">
                 <div class="w-75 m-auto border p-2 phone-background">
-                    <a href="#" class="custom-link">
+                    <a href="phone.php?id=1" class="custom-link">
                         <p><b>Apple iPhone 11 Pro Max</b></p>
                         <img src="https://www.telekom.mk/webimg?id=30629" class="w-100 zoom-image"/>
                         <hr/>
@@ -102,7 +102,7 @@
             </div>
             <div class="col-md-4 text-center mb-5">
                 <div class="w-75 m-auto border p-2 phone-background">
-                    <a href="#" class="custom-link">
+                    <a href="phone.php?id=1" class="custom-link">
                         <p><b>Huawei Nova 5T</b></p>
                         <img src="https://www.telekom.mk/webimg?id=30753" class="w-100 zoom-image"/>
                         <hr/>

@@ -20,4 +20,39 @@
     background-size: cover;
     background: url("https://static.vecteezy.com/system/resources/previews/000/574/569/non_2x/vector-gray-white-polygonal-background-creative-design-templates.jpg") no-repeat center bottom;
 }
+.preview-container{
+    width: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.ui-helper-hidden-accessible{
+    visibility: hidden;
+    overflow: hidden;
+}
+.ui-menu{
+    background: #ffffff !important;
+}
+.ui-menu-item{
+    list-style-type: none;
+    padding-bottom: 5px;
+}
+.price-btn{
+    padding: 10px 20px;
+    background: #1d2124;
+    color: #ffffff;
+    font-size: 1rem;
+}
 
+@media screen and (max-width: 800px){
+    .price-btn{
+        position: fixed;
+        bottom: 0;
+        left:0;
+        width: 100%;
+        text-align: center;
+        background: rgba(0,0,0,0.6);
+        backdrop-filter: blur(8px);
+    }
+}

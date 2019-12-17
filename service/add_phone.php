@@ -104,6 +104,7 @@ if (isset($_COOKIE['logged'])){ $user = $_COOKIE['logged'];} else {header("Locat
                     <div class="form-group col-md-6">
                         <label for="inputColor">Color</label>
                         <input type="text" name="spec-color" class="form-control" id="inputColor" placeholder="Color" required>
+                        <span id="color-box" style="position: absolute; top: 0; left: 50px;padding: 0 10px; border-radius: 20px;">&nbsp;</span>
                     </div>
                 </div>
 
@@ -118,5 +119,8 @@ if (isset($_COOKIE['logged'])){ $user = $_COOKIE['logged'];} else {header("Locat
         </div>
     </div>
 </div>
+<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+<script src="../js/colors.js"></script>
 </body>
 </html>
